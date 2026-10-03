@@ -1,0 +1,24 @@
+gitignore
+
+
+# AutoIt / временные файлы
+*.ini
+*.zip
+*.log
+*.tmp
+*.bak
+*.7z
+
+# Личные и локальные настройки
+.env
+*.secret
+config.local.ini
+# Локальная конфигурация среды автоматизации: содержит абсолютные пути данного компьютера
+opencode.json
+.opencode/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
